@@ -1,0 +1,12 @@
+# venv
+Lib
+Include
+Scripts
+pyvenv.cfg
+.idea
+
+# python
+__pycache__
+
+# kivy
+share
